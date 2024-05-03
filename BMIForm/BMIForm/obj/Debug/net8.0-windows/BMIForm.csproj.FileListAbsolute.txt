@@ -1,0 +1,16 @@
+C:\Users\unagi\OneDrive\Документы\ПРОЕКТИ ВІЗУАЛ СТУДІО\BMIForm\BMIForm\bin\Debug\net8.0-windows\BMIForm.exe
+C:\Users\unagi\OneDrive\Документы\ПРОЕКТИ ВІЗУАЛ СТУДІО\BMIForm\BMIForm\bin\Debug\net8.0-windows\BMIForm.deps.json
+C:\Users\unagi\OneDrive\Документы\ПРОЕКТИ ВІЗУАЛ СТУДІО\BMIForm\BMIForm\bin\Debug\net8.0-windows\BMIForm.runtimeconfig.json
+C:\Users\unagi\OneDrive\Документы\ПРОЕКТИ ВІЗУАЛ СТУДІО\BMIForm\BMIForm\bin\Debug\net8.0-windows\BMIForm.dll
+C:\Users\unagi\OneDrive\Документы\ПРОЕКТИ ВІЗУАЛ СТУДІО\BMIForm\BMIForm\bin\Debug\net8.0-windows\BMIForm.pdb
+C:\Users\unagi\OneDrive\Документы\ПРОЕКТИ ВІЗУАЛ СТУДІО\BMIForm\BMIForm\obj\Debug\net8.0-windows\BMIForm.Form1.resources
+C:\Users\unagi\OneDrive\Документы\ПРОЕКТИ ВІЗУАЛ СТУДІО\BMIForm\BMIForm\obj\Debug\net8.0-windows\BMIForm.csproj.GenerateResource.cache
+C:\Users\unagi\OneDrive\Документы\ПРОЕКТИ ВІЗУАЛ СТУДІО\BMIForm\BMIForm\obj\Debug\net8.0-windows\BMIForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unagi\OneDrive\Документы\ПРОЕКТИ ВІЗУАЛ СТУДІО\BMIForm\BMIForm\obj\Debug\net8.0-windows\BMIForm.AssemblyInfoInputs.cache
+C:\Users\unagi\OneDrive\Документы\ПРОЕКТИ ВІЗУАЛ СТУДІО\BMIForm\BMIForm\obj\Debug\net8.0-windows\BMIForm.AssemblyInfo.cs
+C:\Users\unagi\OneDrive\Документы\ПРОЕКТИ ВІЗУАЛ СТУДІО\BMIForm\BMIForm\obj\Debug\net8.0-windows\BMIForm.csproj.CoreCompileInputs.cache
+C:\Users\unagi\OneDrive\Документы\ПРОЕКТИ ВІЗУАЛ СТУДІО\BMIForm\BMIForm\obj\Debug\net8.0-windows\BMIForm.dll
+C:\Users\unagi\OneDrive\Документы\ПРОЕКТИ ВІЗУАЛ СТУДІО\BMIForm\BMIForm\obj\Debug\net8.0-windows\refint\BMIForm.dll
+C:\Users\unagi\OneDrive\Документы\ПРОЕКТИ ВІЗУАЛ СТУДІО\BMIForm\BMIForm\obj\Debug\net8.0-windows\BMIForm.pdb
+C:\Users\unagi\OneDrive\Документы\ПРОЕКТИ ВІЗУАЛ СТУДІО\BMIForm\BMIForm\obj\Debug\net8.0-windows\BMIForm.genruntimeconfig.cache
+C:\Users\unagi\OneDrive\Документы\ПРОЕКТИ ВІЗУАЛ СТУДІО\BMIForm\BMIForm\obj\Debug\net8.0-windows\ref\BMIForm.dll
