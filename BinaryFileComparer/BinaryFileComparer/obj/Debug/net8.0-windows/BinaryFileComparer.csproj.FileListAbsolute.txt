@@ -1,0 +1,16 @@
+C:\Users\unagi\OneDrive\Документы\ПРОЕКТИ ВІЗУАЛ СТУДІО\BinaryFileComparer\BinaryFileComparer\bin\Debug\net8.0-windows\BinaryFileComparer.exe
+C:\Users\unagi\OneDrive\Документы\ПРОЕКТИ ВІЗУАЛ СТУДІО\BinaryFileComparer\BinaryFileComparer\bin\Debug\net8.0-windows\BinaryFileComparer.deps.json
+C:\Users\unagi\OneDrive\Документы\ПРОЕКТИ ВІЗУАЛ СТУДІО\BinaryFileComparer\BinaryFileComparer\bin\Debug\net8.0-windows\BinaryFileComparer.runtimeconfig.json
+C:\Users\unagi\OneDrive\Документы\ПРОЕКТИ ВІЗУАЛ СТУДІО\BinaryFileComparer\BinaryFileComparer\bin\Debug\net8.0-windows\BinaryFileComparer.dll
+C:\Users\unagi\OneDrive\Документы\ПРОЕКТИ ВІЗУАЛ СТУДІО\BinaryFileComparer\BinaryFileComparer\bin\Debug\net8.0-windows\BinaryFileComparer.pdb
+C:\Users\unagi\OneDrive\Документы\ПРОЕКТИ ВІЗУАЛ СТУДІО\BinaryFileComparer\BinaryFileComparer\obj\Debug\net8.0-windows\BinaryFileComparer.Form1.resources
+C:\Users\unagi\OneDrive\Документы\ПРОЕКТИ ВІЗУАЛ СТУДІО\BinaryFileComparer\BinaryFileComparer\obj\Debug\net8.0-windows\BinaryFileComparer.csproj.GenerateResource.cache
+C:\Users\unagi\OneDrive\Документы\ПРОЕКТИ ВІЗУАЛ СТУДІО\BinaryFileComparer\BinaryFileComparer\obj\Debug\net8.0-windows\BinaryFileComparer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unagi\OneDrive\Документы\ПРОЕКТИ ВІЗУАЛ СТУДІО\BinaryFileComparer\BinaryFileComparer\obj\Debug\net8.0-windows\BinaryFileComparer.AssemblyInfoInputs.cache
+C:\Users\unagi\OneDrive\Документы\ПРОЕКТИ ВІЗУАЛ СТУДІО\BinaryFileComparer\BinaryFileComparer\obj\Debug\net8.0-windows\BinaryFileComparer.AssemblyInfo.cs
+C:\Users\unagi\OneDrive\Документы\ПРОЕКТИ ВІЗУАЛ СТУДІО\BinaryFileComparer\BinaryFileComparer\obj\Debug\net8.0-windows\BinaryFileComparer.csproj.CoreCompileInputs.cache
+C:\Users\unagi\OneDrive\Документы\ПРОЕКТИ ВІЗУАЛ СТУДІО\BinaryFileComparer\BinaryFileComparer\obj\Debug\net8.0-windows\BinaryFileComparer.dll
+C:\Users\unagi\OneDrive\Документы\ПРОЕКТИ ВІЗУАЛ СТУДІО\BinaryFileComparer\BinaryFileComparer\obj\Debug\net8.0-windows\refint\BinaryFileComparer.dll
+C:\Users\unagi\OneDrive\Документы\ПРОЕКТИ ВІЗУАЛ СТУДІО\BinaryFileComparer\BinaryFileComparer\obj\Debug\net8.0-windows\BinaryFileComparer.pdb
+C:\Users\unagi\OneDrive\Документы\ПРОЕКТИ ВІЗУАЛ СТУДІО\BinaryFileComparer\BinaryFileComparer\obj\Debug\net8.0-windows\BinaryFileComparer.genruntimeconfig.cache
+C:\Users\unagi\OneDrive\Документы\ПРОЕКТИ ВІЗУАЛ СТУДІО\BinaryFileComparer\BinaryFileComparer\obj\Debug\net8.0-windows\ref\BinaryFileComparer.dll
